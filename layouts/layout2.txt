@@ -1,0 +1,4 @@
+[lspc]>[lctrl]
+fn [lspc]>[lctrl]
+{hk1}>{caps}{-lshft}{-lalt}{u}{+lalt}{+lshft}
+{hk3}>{-lshft}{-lalt}{caps}{d}{+lshft}{+lalt}
